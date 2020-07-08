@@ -315,8 +315,8 @@ right: 0;
 .about .about-content .personal-info .info-item p span {
 	font-weight: 400;
 	color: #504e70;
-	margin-left: 4px;
-	display: inline-block;
+	display: block;
+	margin-left: 0;
 }
 .about .about-content .personal-info .buttons {
 	margin-top: 30px;
